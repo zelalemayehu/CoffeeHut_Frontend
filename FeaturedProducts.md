@@ -7,3 +7,5 @@ Products:
 * Macchiato
 * Cappuccino
 * Latte
+* New Entery
+*
